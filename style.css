@@ -1,6 +1,51 @@
 #zászlók{
 
-    text-align: center;
-    width: 200px;
+ text-align: center;
+}
 
+img{
+
+width: 50px;
+margin: 15px;
+}
+
+span{
+
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    justify-content: right;
+}
+
+header{
+
+    text-align: center;
+}
+
+#page{
+
+    width: 600px;
+    background-color: #e0e0e0;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #660000;
+}
+
+h5{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 30px;
 }
